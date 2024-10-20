@@ -94,10 +94,10 @@ const EmployeeForm = () => {
               onChange={handleInputChange}
             >
               <option value=''>select position</option>
-              <option value='volvo'>Manager</option>
-              <option value='saab'>Personal Assistant</option>
-              <option value='mercedes'>Administrator</option>
-              <option value='audi'>Receptionist</option>
+              <option value='Manager'>Manager</option>
+              <option value='Personal assistant'>Personal Assistant</option>
+              <option value='Administrator'>Administrator</option>
+              <option value='Receptionist'>Receptionist</option>
             </select>
           </div>
         </div>
